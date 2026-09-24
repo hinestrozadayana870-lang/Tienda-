@@ -2,7 +2,7 @@ const Header = () => {
   return (
     <header className="sticky top-0 z-20 border-b bg-white/95 backdrop-blur">
       <nav className="mx-auto flex max-w-5xl items-center justify-between px-6 py-4" aria-label="Navegación principal">
-        <a href="#inicio" className="text-xl font-extrabold text-blue-700">
+        <a href="#perfil" className="text-xl font-extrabold text-blue-700">
           Leydi Dayana Hinestroza
         </a>
         <ul className="hidden gap-5 md:flex">
